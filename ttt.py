@@ -224,3 +224,5 @@ while(True):
     elif( CheckWin( tabuleiro ) == 'e'):
         
         print 'draw'
+        
+raw_input()
